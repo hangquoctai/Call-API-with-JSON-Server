@@ -2,15 +2,9 @@
   "products": [
     {
       "name": "Iphone 5",
-      "price": "300",
+      "price": "500",
       "status": true,
       "id": 4
-    },
-    {
-      "name": "Samsung Galaxy S7",
-      "price": "200",
-      "status": true,
-      "id": 5
     },
     {
       "name": "Nokia 1202",
